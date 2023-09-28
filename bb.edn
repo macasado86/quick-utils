@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :bbin/bin {kir-compose {:main-opts ["-m" "quick-utils.kirbyx"]}}}
